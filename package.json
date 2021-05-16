@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "homepage": "https://NumanAnees.github.io/TodoApp",
+  "homepage": "https://NumanAnees.github.io/React-Todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
